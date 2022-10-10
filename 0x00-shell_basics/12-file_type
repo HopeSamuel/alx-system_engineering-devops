@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 file /tmp/iamafile
+=======
+#!/bin/bash 
+ file /tmp/iamafile
+>>>>>>> 7ed74b0f06cc24ebf749164829719c81b00734fd
