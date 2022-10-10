@@ -1,1 +1,1 @@
-This project id for shell redirections
+this project is for shell redirections
