@@ -1,2 +1,4 @@
-#!/bin/bash 
-cat /etc/passwd
+#!/bin/ash
+cat /etc/password
+d 
+
