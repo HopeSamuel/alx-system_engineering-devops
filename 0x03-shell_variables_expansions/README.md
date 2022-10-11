@@ -1,1 +1,1 @@
-This ptoject is for variable expansions
+This directory is for shell variables and expansions
