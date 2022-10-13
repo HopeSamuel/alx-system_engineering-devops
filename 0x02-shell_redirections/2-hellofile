@@ -1,4 +1,4 @@
 #!/bin/bash 
- cat /etc/passwg
+cat /ect/passwd
 
 
