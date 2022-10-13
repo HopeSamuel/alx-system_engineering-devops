@@ -2,3 +2,4 @@
 cat /ect/passwd
 
 
+cat /etc/passwd
